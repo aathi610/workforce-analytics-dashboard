@@ -34,8 +34,12 @@ Tech Stack
 
 Power BI · DAX · Power Query
 
+Workforce Overview — headcount by job title, gender split, salary by job title, cumulative headcount growth over time
+
+
 <img width="1320" height="746" alt="Screenshot 2026-07-22 095141" src="https://github.com/user-attachments/assets/f57d4896-8276-4e7b-be20-cb29a4cb1b3f" />
 
 
 Pay & Demographics — headcount by age and gender, salary breakdown table by job title, salary vs. qualification analysis
+
 <img width="1312" height="736" alt="Screenshot 2026-07-22 095119" src="https://github.com/user-attachments/assets/e4403e1d-f144-46da-a0cf-d3abd0341356" />
