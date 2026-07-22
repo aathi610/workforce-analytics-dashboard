@@ -1,1 +1,19 @@
-# workforce-analytics-dashboard
+Workforce & Compensation Analytics Dashboard
+
+A Power BI dashboard analyzing workforce data — headcount, compensation, demographics, and retention risk — built end-to-end from raw data to interactive reporting.
+
+Key Insights
+161 employees analyzed across job titles
+Average salary: $54K — Product Manager highest (~$83K), Packaging Associate lowest (~$33K)
+Gender split: 54.7% Male / 45.3% Female
+Retention risk flagged: 18% of employees (29 people) hold leave balances over 20 days
+Salary distribution analyzed by job title, gender, age, and qualification
+Tech Stack
+
+Power BI · DAX · Power Query
+
+Dashboard Pages
+
+Workforce Overview — headcount by job title, gender split, salary by job title, cumulative headcount growth over time
+
+Pay & Demographics — headcount by age and gender, salary breakdown table by job title, salary vs. qualification analysis
